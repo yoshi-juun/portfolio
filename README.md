@@ -1,11 +1,5 @@
 # 吉田隼　ポートフォリオ
 
-## 連絡先
-- **メール**: 2026juny@gmail.com
-- **大学メール**: m248132k@st.u-gakugei.ac.jp
-- **大学メール（旧）**: e205415f@st.u-gakugei.ac.jp
-- **GitHub**: [yoshi-juun](https://github.com/yosji-juun)
-
 ## スキル概要
 
 ### プログラミング言語(年数：目的)
@@ -79,6 +73,12 @@
 
 ## 実績
 - 2024/3：「ChatGPTを用いた生成プログラムの自動修正システムの開発」というテーマで,電子情報通信学会(IECIE) 知能ソフトウェア工学研究会(SIG-KBSE)にて発表
+
+## 連絡先
+- **メール**: 2026juny@gmail.com
+- **大学メール**: m248132k@st.u-gakugei.ac.jp
+- **大学メール（旧）**: e205415f@st.u-gakugei.ac.jp
+- **GitHub**: [yoshi-juun](https://github.com/yosji-juun)
 
 ## 学歴
 - 2017/3：大田区立矢口中学校　卒業
